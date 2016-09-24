@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ada", "ada.vcproj", "{19C8CF19-4ABC-451E-992F-500AA3D62CAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19C8CF19-4ABC-451E-992F-500AA3D62CAC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{19C8CF19-4ABC-451E-992F-500AA3D62CAC}.Debug|Win32.Build.0 = Debug|Win32
+		{19C8CF19-4ABC-451E-992F-500AA3D62CAC}.Release|Win32.ActiveCfg = Release|Win32
+		{19C8CF19-4ABC-451E-992F-500AA3D62CAC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
